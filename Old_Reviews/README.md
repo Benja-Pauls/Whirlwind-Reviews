@@ -1,0 +1,1 @@
+This folder contains all the old "Whirlwind Review" textbooks I developed near the start of my college career. Originally hosted in Word documents, I believe the inclusion of code, Latex compatability, and easier sharing using a Git platform outweighed the continued use of Word.
